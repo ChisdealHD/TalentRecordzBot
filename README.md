@@ -28,10 +28,10 @@ to do this need do "cd testbot" and inside that folder will see config.json you 
 
 then do "C+X and Y and Enter"
 
-then ```JS
+then ```
 npm install ```
 
-after that do "cd .." and then ```JS
+after that do "cd .." and then ```
 node scotty.js ```
   and bam your finished
 
