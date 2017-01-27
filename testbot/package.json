@@ -26,7 +26,7 @@
 	},
 	"homepage": "https://github.com/ChisdealHD/TalentRecordzBot#readme",
 	"dependencies": {
-		"discord.js": "hydrabolt/discord.js#v8",
+		"discord.js": "github:hydrabolt/discord.js",
 		"youtube-search": "^1.0.6",
 		"mathjs": "^3.5.3",
 		"ytdl-core": "^0.7.17",
@@ -35,5 +35,8 @@
 		"request": "^2.79.0",
 		"node-opus": "^0.2.4",
 		"stringformat": "^0.0.5"
+		"express": "^4.14.0"
+		"morgan": "^1.7.0"
+		"markdown": "^0.5.0"
 	}
 }
