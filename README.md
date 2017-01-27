@@ -23,8 +23,13 @@ then do "C+X and Y and Enter"
 then "npm Install"
 
 after that done need do inside anouther folder too called testbot
-
-to do this need do "cd testbot" and inside that folder will see config.json you need edit that folder inside with BOT TOKEN, YoutubeAPI, TwitchAPI, OWNERID, BOT CLIENTID, PREFIX, PORT< and AdminsID. by do that is "sudo nano config.json"
+```javascript
+to do this need do "cd testbot" 
+```
+  and inside that folder will see config.json you need edit that folder inside with BOT TOKEN, YoutubeAPI, TwitchAPI, OWNERID, BOT CLIENTID, PREFIX, PORT< and AdminsID. by do that is 
+```javascript
+"sudo nano config.json"
+```
 
 ```javascript
 then do "C+X and Y and Enter"
