@@ -28,8 +28,11 @@ to do this need do "cd testbot" and inside that folder will see config.json you 
 
 then do "C+X and Y and Enter"
 
-then "npm install"
+then ```JS
+npm install ```
 
-after that do "cd .." and then "node scotty.js" and bam your finished
+after that do "cd .." and then ```JS
+node scotty.js ```
+  and bam your finished
 
 This bot in BETA so there will be few bugs round, if theres bugs report to me at Issues
