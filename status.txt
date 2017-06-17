@@ -1,9 +1,0 @@
-Do (prefix)help for commands
-Musicbot in Beta, there will be few bugs round it
-This bot Custom Made with Few Scripts of other bot and Musicbot was made by JoeBanks13
-Do (prefix)beam for Beam.Pro Stats
-Do (prefix)invite for Invite bot
-Do (prefix)git for Bot Github
-Do (prefix)sub for Youtube Subscribers Checker
-Do (prefix)specs for System Specs
-More Commands SOON!
